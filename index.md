@@ -1,4 +1,4 @@
-## Welcome to my blog
+## Welcome!
 
 
 
@@ -17,4 +17,6 @@
 
 硕士：中国矿业大学 计算机技术
 
+**之前的博客地址是这个 但是内容太简单了 就删了
+以后博客更新在 https://blog.csdn.net/weixin_44039605 **
 
